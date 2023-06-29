@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CCurrency.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SearchUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.coingecko.com/api/v3/search?query=</Value>
+    </Setting>
+    <Setting Name="SearchIDUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.coingecko.com/api/v3/coins/</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
